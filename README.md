@@ -27,7 +27,7 @@ Click on image to watch
 
 Below is a snapshot of the Inspector configuration used for our object pools. Adjust these values to suit your performance needs:
 
-![Object Pooling Settings](Assets/Screenshot%202025-06-09%20125126.png)
+![Object Pooling Settings](Assets/objectPoolSs.png)
 
 ---
 
